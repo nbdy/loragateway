@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     long_description=open("README.md", "r").read(),
     name="loragateway",
-    version="0.3",
+    version="0.4",
     description="lora gateway",
     author="Pascal Eberlein",
     author_email="pascal@eberlein.io",
